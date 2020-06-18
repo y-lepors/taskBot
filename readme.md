@@ -13,4 +13,4 @@ This one will be very simple to turn on for you with your token.
 
 ### Easily change the token on line 66 of the code
 
-  jeton = "NzE5NjUwODc3NzI3NzAzMTIw.Xuvhww.lppTNr8VR3yv0WxBuyzDPEiegn8"
+  `jeton = "Your token"`
