@@ -1,5 +1,4 @@
-## A little bot in python
-==========================
+# A little bot in python
 
 This bot will be useful to you in order to organize your *tasks* in team whether it is on your games or works.
 This one will be very simple to turn on for you with your token.
