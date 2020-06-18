@@ -63,7 +63,7 @@ async def removeTask(ctx, intTask):
     await ctx.send(f"Tâche " + str(numTask) + " supprimée")
 
 
-jeton = "NzE5NjUwODc3NzI3NzAzMTIw.Xt6hzg.JlgCbKTjup4iONZcmdfeV2MV-Nw"
+jeton = ""
 
 # Print ez info
 print("good execution")
